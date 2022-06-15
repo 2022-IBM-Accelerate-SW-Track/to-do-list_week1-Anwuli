@@ -3,7 +3,7 @@ import "./About.css";
 import profile_pic_name from "../assets/profile_pic_name.jpg";
 export default class About extends Component {
   render() {
-    return (
+    return ( 
       <div>
         <h1>About me</h1> 
         
