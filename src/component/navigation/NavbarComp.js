@@ -1,5 +1,7 @@
 import React, { Component } from "react";
-import {Navbar, Nav, NavDropdown, Container} from 'react-bootstrap'
+import {Navbar, Nav, Container} from 'react-bootstrap'
+
+//I removed this NavDropdown,
 
 import {
     BrowserRouter as Router,
